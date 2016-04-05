@@ -1,7 +1,7 @@
 name: 247phil
 favicon: null
-layout_spectrum: 0.6398668023757637
-typography_spectrum: 0.26232365355826914
+layout_spectrum: 0.24713
+typography_spectrum: 0.06808
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.43926618271507323
-  lightness: 0.5753863980062306
-  saturation: 0.012305604992434382
-  rhythmicContrast: 0.8924682012293488
+    - '#0e0d08'
+    - '#a09174'
+    - '#e3d2ca'
+    - '#554931'
+    - '#2c2b26'
+  brandStrength: 0.8125
+  lightness: 0.3125
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
